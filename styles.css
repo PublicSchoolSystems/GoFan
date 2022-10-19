@@ -55,6 +55,9 @@ body {
 
 .transferFont {
   display: inline-block;
+  position: absolute;
+  margin-top: 1.5rem;
+  left: 80%;
 }
 
 @font-face {
@@ -86,7 +89,8 @@ body {
 
 .plusSymbol {
   color: white;
-  padding-left: 2.5rem;
+  position: absolute;
+  left: 95%;
   display: inline-block;
   font-size: 1rem;
   font-weight: bolder;
